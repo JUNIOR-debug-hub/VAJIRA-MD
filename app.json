@@ -1,5 +1,5 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "JUNIOR-SIBBS-bot",
   "description": "VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻",
   "logo": "https://telegra.ph/file/235d945df230d71f246b6.jpg",
   "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
@@ -17,9 +17,9 @@
             "value": "button"
         },
     "OWNER_NUMBER": {
-            "description": "Put here your number without +",
+            "description": "0783966801",
             "required": true,
-            "value": "947xxxxxxxx"
+            "value": "0783966801"
         },
     "POSTGRESQL_URL": {
             "description": "Put here postgresql url",
